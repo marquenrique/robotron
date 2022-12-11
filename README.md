@@ -9,7 +9,7 @@ Robotron-2000 é um projeto meramente visual desenvolvido nativamente em **JavaS
   <img src="./img/layoutrobo.png"/>
   
 ## 🖱️ Como funciona o Robotron-2000
-1- Clique no botão de "+" ou de "-" (circulados em vermelho) para aumentar ou diminuir dinamicamente os valores dos atributos (grifados em vermelho) 
+1- Clique no botão de "+" ou de "-" (circulados em vermelho) para aumentar ou diminuir dinamicamente os valores dos atributos (sublinhados em vermelho) 
 
 <img src="./img/robo1.png"/>
 
